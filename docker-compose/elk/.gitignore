@@ -1,0 +1,2 @@
+config/nginx/kibana/*
+!config/nginx/kibana/.gitkeep
